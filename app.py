@@ -1,15 +1,7 @@
 import yfinance as yf
-import time
 import pandas as pd
-import datetime
 import numpy as np
-import matplotlib.pyplot as plt
-import matplotlib.ticker as mticker
-import matplotlib.dates as mdates
 import mplfinance as mpf
-from mplfinance import _panels as ps
-import matplotlib as mpl
-from itertools import count
 import matplotlib.animation as animation
 import utils
 
